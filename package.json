@@ -1,0 +1,13 @@
+{
+    "name": "app",
+    "version": "0.0.0",
+    "main": "back-end/index.js",
+    "scripts": {
+        "dev": "nodemon"
+    },
+    "dependencies": {
+        "express": "^4.18.1",
+        "nodemon": "^2.0.16",
+        "typescript": "^4.6.4"
+    }
+}
